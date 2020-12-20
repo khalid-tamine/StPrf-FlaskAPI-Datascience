@@ -1,4 +1,4 @@
-# Data Science Student Performance Estimator: Project Overview 
+# DataScience Student Performance Estimator: Project Overview 
 * Created a tool that estimates the final grade of a student to help the school to predict the perfomance of their students and use it in various ways.
 * Engineered features from data imported in a csv file. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
