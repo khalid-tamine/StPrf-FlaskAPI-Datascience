@@ -12,7 +12,7 @@
 
 
 ## Data Columns
-The Data consist of the following:
+There is a detailed description of the dataset in student/student.txt Data consist of the following:
 *	school
 *	sex
 *	age
