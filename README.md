@@ -51,7 +51,7 @@ After importing the data , I had to make a changement in order to make my data m
 *	Eliminated some columns that were not correlated with the final grade 'G3'
 
 ## EDA
-I looked at the distributions of the data . Below are a few highlights from the plot. 
+I looked at the distributions of the data . Below are a plot that shows the variations between the predicted and the true value and a plot for correlation test. 
 
 ![alt text](images/model_performance.PNG "differences between true values and predicted values")
 ![alt text](images/Correlation.PNG "Correlations")
